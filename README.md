@@ -352,15 +352,10 @@ This project also documents its limitations:
   * All articles come from one ministry.
   * For a broader strategic-intelligence system, one would integrate multiple news outlets and social media.
 
----
-
----
 
 
 ---
 
 *Feel free to open an issue or contact me if you have questions or ideas for extensions.*
 
-```
-::contentReference[oaicite:0]{index=0}
 ```
